@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "2e5132fc-92c8-4da8-864a-c126445ff79f": {
+        "id": "2e5132fc-92c8-4da8-864a-c126445ff79f",
+        "parent": null,
+        "name": "1203_committest.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "1203_committest.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "1203committest"
+        },
+        "triggers": [],
+        "lastUpdated": 1606987942971
+      }
+    },
+    "openFiles": [
+      "2e5132fc-92c8-4da8-864a-c126445ff79f"
+    ],
+    "currentFileId": "2e5132fc-92c8-4da8-864a-c126445ff79f",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.6.1",
+    "projectName": "1203_committest",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1606987948856
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "1203_committest",
+      "url": "https://github.com/HirudineeADRT/1203_committest"
+    }
+  }
+}
